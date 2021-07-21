@@ -1,0 +1,4 @@
+com/masai/myapplication/Hide.java
+ com.masai.myapplication.Hide
+com/masai/myapplication/BuildConfig.java
+ com.masai.myapplication.BuildConfig
